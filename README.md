@@ -50,7 +50,12 @@ Upload to GitHub Pages for free hosting.
 ## PROGRAM
 
 
+
 ## OUTPUT
+<img width="1616" height="903" alt="image" src="https://github.com/user-attachments/assets/09666f5b-1c4e-4a70-a42e-467da3d7e23a" />
+<img width="1400" height="796" alt="image" src="https://github.com/user-attachments/assets/9d4ed56a-e82f-4984-b85f-88d2fb6632fb" />
+<img width="1567" height="671" alt="image" src="https://github.com/user-attachments/assets/b9a3b39d-ec43-4d84-b90f-05d30a21e2f7" />
+
 
 
 ## RESULT
