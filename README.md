@@ -48,6 +48,7 @@ Deploy the Portfolio.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -167,7 +168,7 @@ function show(id){
 </body>
 </html>
 
-
+```
 
 ## OUTPUT
 <img width="1616" height="903" alt="image" src="https://github.com/user-attachments/assets/09666f5b-1c4e-4a70-a42e-467da3d7e23a" />
